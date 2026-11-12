@@ -27,5 +27,4 @@ Machine Learning · Statistical Modeling · Optimization
 
 ## 📫 Contact
 
-Email: dongjun.miao@outlook.com
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/dongjun-miao)
+Email: dongjun.miao@outlook.com | dongjun002@e.ntu.edu.sg
