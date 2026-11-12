@@ -16,10 +16,11 @@ My interests span **statistical machine learning, optimization under uncertainty
 
 | Project | Research focus |
 | --- | --- |
-| [Adaptive Scheduling under Uncertainty](https://github.com/dongjun-miao/adaptive-scheduling-under-uncertainty) | Controlled simulation of online forecast calibration, replanning triggers and computation budgets in job-shop scheduling. |
-| [Fine-Grained Motion Representation](https://github.com/dongjun-miao/fine-grained-motion-representation) | Video representation experiments, temporal evidence diagnostics and transparent generalization/failure analysis. |
-| [State-Dependent ML Alpha](https://github.com/dongjun-miao/state-dependent-ml-alpha) | Interpretable state-conditioned equity signals, purged walk-forward evaluation and cost-aware portfolio diagnostics. |
-| [Small-Cap Event Alpha](https://github.com/dongjun-miao/small-cap-event-alpha) | CRSP-based volume regime-shift event study, return-distribution robustness and liquidity/capacity constraints. |
+| [Adaptive Scheduling under Uncertainty](https://github.com/dongjun-miao/adaptive-scheduling-under-uncertainty) | Online forecast calibration, replanning triggers and budget-aware job-shop scheduling under uncertainty. |
+| [Microfluidic Routing & Scheduling](https://github.com/dongjun-miao/microfluidic-routing-optimization) | Constraint-aware multi-droplet routing, A*/MCTS comparisons and heuristic protocol scheduling on synthetic grids. |
+| [Fine-Grained Motion Representation](https://github.com/dongjun-miao/fine-grained-motion-representation) | Video motion representations, temporal evidence diagnostics and generalization/failure analysis. |
+| [State-Dependent ML Alpha](https://github.com/dongjun-miao/state-dependent-ml-alpha) | Interpretable state-conditioned equity signals, purged evaluation and cost-aware backtesting. |
+| [Small-Cap Event Alpha](https://github.com/dongjun-miao/small-cap-event-alpha) | CRSP-based volume regime-shift event studies, return-tail robustness and liquidity/capacity constraints. |
 
 These repositories document **independent research and reproducibility work**, including methodological limitations and negative findings. They do not imply peer-reviewed publication or institutional endorsement.
 
